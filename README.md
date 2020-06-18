@@ -14,14 +14,6 @@
 
 
 
-## Project Group members :
-Name| email address
-----|----------------
-Nivea Dabre| nivea.dabre@rutgers.edu
-Pooja Desai| pooja.desai25@rutgers.edu
-Twinkle Motwani| twinkle.motwani@rutgers.edu
-
-
 ## Data set Dictionary :
 
 Variable Name| Description| Datatype| Accepts Null Values
